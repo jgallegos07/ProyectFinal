@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppCuarta</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_relative_layout_clase">RelativeLayoutClaseActivity</string>
+    <string name="title_activity_relativelayout">RelativelayoutActivity</string>
+    <string name="title_activity_linear_layaout">LinearLayaout</string>
+    <string name="title_activity_relative_layout">RelativeLayout</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="c">C</string>
+    <string name="s">S</string>
+    <string name="n">N</string>
+    <string name="so">so</string>
+    <string name="e">e</string>
+    <string name="title_activity_table_layout">TableLayout</string>
+</resources>
